@@ -334,7 +334,7 @@ npm run dev
 
 ## Team
 
-Department of Creative Technologies — Information Retrieval Term Project
+Information Retrieval Term Project
 
 | Member | Contribution |
 |---|---|
