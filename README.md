@@ -42,7 +42,7 @@ Built as an Information Retrieval term project, the system combines two classica
 - [Future Work](#future-work)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Team](#team)
+
 
 <br/>
 
@@ -329,20 +329,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
-<br/>
-
-## Team
-
-Information Retrieval Term Project
-
-| Member | Contribution |
-|---|---|
-| **Maham** | IR pipeline (BM25 + TF-IDF), corpus indexing, Flask backend API |
-| **Zoya** | ML classifiers (Fake/Real, Bias), preprocessing pipeline, evaluation metrics |
-| **Swail** | Frontend (three-column comparison UI), report, presentation |
-
-<br/>
 
 <div align="center">
 
